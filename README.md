@@ -67,20 +67,3 @@ AI-powered journaling app with Gemini API integration.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mafrook27&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mafrook27&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafrook27&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### "Good UI is not decoration. It's system design." 🚀
-
-</div>
